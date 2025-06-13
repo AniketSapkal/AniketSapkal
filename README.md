@@ -33,9 +33,8 @@ I'm a passionate **MERN stack developer** exploring the worlds of **backend syst
 
 ### 📈 GitHub Stats
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket-laxman-sapkal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-laxman-sapkal&layout=compact&theme=radical)
-
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniketSapkal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSapkal&layout=compact&theme=radical)
 ---
 
 ### 🧩 Fun Fact
