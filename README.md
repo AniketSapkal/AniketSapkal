@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi there, I'm Aniket Laxman Sapkal
 
-<!--
-**AniketSapkal/AniketSapkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 MERN Full Stack Developer | Web3 Enthusiast | Automation & AI Builder
 
-Here are some ideas to get you started:
+I'm a passionate **MERN stack developer** exploring the worlds of **backend systems, Web3 technologies**, and **AI automation**. I enjoy building smart, scalable applications and love experimenting with new tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Currently Learning
+- Backend architecture, CI/CD best practices  
+- Data Structures & Algorithms  
+- Scaling AI Agents & Automation
+
+---
+
+### 💡 Tech Stack & Skills
+- **Frontend:** React.js, Angular  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **DevOps & Tools:** Git, Docker, CI/CD (GitHub Actions, etc.)  
+- **Blockchain/Web3:** Web3.js, NFT-based projects  
+- **AI & Bots:** Telegram bots, AI agents, Chat automation  
+
+---
+
+### 🧪 Projects & Interests
+- ✅ Designed smart Telegram bots for automation  
+- ✅ Built AI agents with custom workflows  
+- ✅ Worked on NFT-based decentralized applications  
+- 🚧 Planning to launch open-source full-stack projects soon!
+
+---
+
+### 📈 GitHub Stats
+
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket-laxman-sapkal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-laxman-sapkal&layout=compact&theme=radical)
+
+---
+
+### 🧩 Fun Fact
+> I believe automation and decentralization will define the future — and I'm here to help build it 🚀
+
+---
+
+### 🙌 Let's Connect
+I'm open to collaboration, learning opportunities, and exciting side projects. Let’s build something awesome together!
