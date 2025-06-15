@@ -31,6 +31,14 @@ I'm a passionate **MERN stack developer** exploring the worlds of **backend syst
 
 ---
 
+### 🌐 Portfolio
+
+Here are some of the projects I've built or contributed to:
+
+| **Personal Portfolio** |
+My own developer portfolio website showcasing skills, projects, and blogs | React, Tailwind, Vite, GitHub Actions | 
+[🔗 Visit Now](https://aniketsapkal.dev) |
+
 ### 📈 GitHub Stats
 
 ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniketSapkal&show_icons=true&theme=radical)
