@@ -39,7 +39,7 @@ Here are some of the projects I've built or contributed to:
 
 My own developer portfolio website showcasing skills, projects, and blogs | React, Tailwind, Vite, GitHub Actions | 
 
-[🔗 Visit Now](https://aniketsapkal.dev) 
+[🔗 Visit Now]([(https://aniketsapkalportfolio.vercel.app/)) 
 
 ### 📈 GitHub Stats
 
