@@ -43,7 +43,7 @@ My own developer portfolio website showcasing skills, projects, and blogs | Reac
 
 ### 📈 GitHub Stats
 
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniketSapkal&show_icons=true)
+![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=AniketSapkal&show_icons=true&cache_seconds=1800&v=1&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketSapkal&layout=compact&theme=radical)
 ---
 
