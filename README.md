@@ -14,7 +14,7 @@ I'm a passionate **MERN stack developer** exploring the worlds of **backend syst
 ---
 
 ### 💡 Tech Stack & Skills
-- **Frontend:** React.js, Angular  
+- **Frontend:** React.js, Angular.js, Next.js
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **DevOps & Tools:** Git, Docker, CI/CD (GitHub Actions, etc.)  
